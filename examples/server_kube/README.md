@@ -16,4 +16,4 @@ server2020/07/15 13:14:08 Serving at: 0.0.0.0:8080
 - visit the debug flagz endpoint `http://0.0.0.0:8080/debug/flagz`
 
 Should see this if successful:
-![](flagz-debug-view.png)
+![screenshot](https://raw.githubusercontent.com/ldemailly/go-flagz/screenshots/screenshot_endpoint.png)
