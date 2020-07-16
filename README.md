@@ -1,7 +1,7 @@
 This was a fork of the code originally on https://github.com/mwitkow/go-flagz and https://github.com/improbable-eng/go-flagz
 with changes (see commit history) to get the go modules to work, reduce boiler plate needed for configmap watcher (#7), avoid panic when there is extra whitespace (#8), make the watcher work with regular files and relative paths (#9) and switched to standard golang flags (#5).
 
-Further simplification and improvements will be in https://github.com/fortio/fortio/tree/master/dflag
+**Further development, simplification and improvements will be in https://github.com/fortio/fortio/tree/master/dflag**
 
 # Go FlagZ 
 
